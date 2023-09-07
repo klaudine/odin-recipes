@@ -1,5 +1,19 @@
-.Pasta {
-    color: red;
-    background-color: black;
-    
+body {
+    background-color: peachpuff;
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+    text-decoration: underline; 
+}
+
+h2 {
+    color:grey;
+    font-style: italic;
+    font-weight: 50;
+}
+.Pasta, .Sushi, .Fried-Rice {
+    padding: 6px;
+    margin: 6px;
+    border: 6px;
 }
